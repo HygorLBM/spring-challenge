@@ -1,6 +1,5 @@
 # spring-challenge
-This is part of a Spring+React test in order to present basic skills in this stack. 
-Some test data is present at data.sql file, the project runs an H2 (memory database) implementation.
+This is part of a Spring+React test in order to present basic skills in this stack.
 
 ## Requirements and main tools used:
  - Java 11
